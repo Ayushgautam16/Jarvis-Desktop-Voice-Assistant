@@ -81,6 +81,3 @@ Python 3.6+
 
 Please ⭐️ this repository if this project helped you!
 
-## 📌License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
